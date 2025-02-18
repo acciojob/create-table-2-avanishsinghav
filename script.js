@@ -1,7 +1,7 @@
 function createTable() {
     //Write your code here
     let rows = prompt("Input number of rows");
-	let cols = prompt("Input number of column");
+	let cols = prompt("Input number of columns");
 
 	rows = parseInt(rows);
 	cols = parseInt(cols);
